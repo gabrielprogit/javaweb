@@ -7,6 +7,7 @@ public class AlfredoController {
 	
 	private String nome;
 	private Integer idade;
+	private Double resultado;  
 	
 	
 	public String getNome() {
